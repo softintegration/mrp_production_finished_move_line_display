@@ -2,7 +2,7 @@
 
 
 {
-    'name': 'Bypassing the reservation for the Finished Products movements of Mrp production',
+    'name': 'Displaying Finished Products movement lines of Mrp production',
     'author': 'Soft-integration',
     'application': True,
     'installable': True,
@@ -10,7 +10,7 @@
     'qweb': [],
     'description': False,
     'images': [],
-    'version': '1.0.1',
+    'version': '1.0.1.1',
     'category': 'Manufacturing/Manufacturing',
     'demo': [],
     'depends': ['mrp',],
